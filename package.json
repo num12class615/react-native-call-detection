@@ -1,5 +1,5 @@
 {
-  "name": "@bb/react-native-call-detection",
+  "name": "@bbik/react-native-call-detection",
   "version": "1.0.0",
   "description": "Get different phone call states for iOS and Android along with incoming phone number(just for android)",
   "main": "index.js",
