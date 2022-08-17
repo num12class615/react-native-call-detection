@@ -6,7 +6,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/priteshrnandgaonkar/react-native-call-detection"
+    "url": "https://github.com/num12class615/react-native-call-detection"
   },
   "keywords": [
     "react-native",
@@ -15,7 +15,7 @@
     "iOS",
     "android"
   ],
-  "author": "Pritesh Nandgaonkar <prit.nandgaonkar@gmail.com> (https://github.com/priteshrnandgaonkar)",
+  "author": "Sayomphoo (https://github.com/num12class615)",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.26.0"
